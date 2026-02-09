@@ -1,0 +1,10 @@
+{
+    // If you use the Code Runner extension, prefer running in the integrated terminal
+    "code-runner.runInTerminal": true,
+
+    // When executing a Python file from the terminal, start in the file's folder
+    "python.terminal.executeInFileDir": true,
+
+    // Use PowerShell for the integrated terminal (matches your environment). It's okay if VS Code already uses this.
+    "terminal.integrated.defaultProfile.windows": "PowerShell"
+}
